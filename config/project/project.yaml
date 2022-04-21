@@ -1,0 +1,22 @@
+dateModified: 1650537183
+email:
+  fromEmail: tom@tomdavies.net
+  fromName: 'Craft 4 Test'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0a7c9269-a9f0-4c7d-b379-cf32cbb5c38c: Common # Common
+    d55216e1-491b-43e1-9fff-8ee7d3857065: 'Craft 4 Test' # Craft 4 Test
+    f2ae6050-3770-4fe6-a926-8bacfcdfaf5d: 'Craft 4 Test' # Craft 4 Test
+system:
+  edition: solo
+  live: true
+  name: 'Craft 4 Test'
+  schemaVersion: 3.7.33
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
