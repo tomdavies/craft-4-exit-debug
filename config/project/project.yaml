@@ -1,4 +1,4 @@
-dateModified: 1650538387
+dateModified: 1650542069
 email:
   fromEmail: tom@tomdavies.net
   fromName: 'Craft 4 Test'
@@ -12,11 +12,10 @@ system:
   edition: solo
   live: true
   name: 'Craft 4 Test'
-  schemaVersion: 4.0.0.8
+  schemaVersion: 4.0.0.9
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false
-  deactivateByDefault: false
   defaultGroup: null
   photoSubpath: null
   photoVolumeUid: null
